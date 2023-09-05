@@ -167,8 +167,9 @@ a{
 }
 
 .resume{
-   color: white
+   color: black
 }
+
 
 .hero-section-right{
    position:relative;
@@ -176,7 +177,7 @@ a{
 
 .user-image{
    position: relative;
-   padding:2.5rem;
+   padding:3.0rem;
    filter: grayscale(1);
    transition: all 1s;
    animation: user-Img 5s linear infinite;
