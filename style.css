@@ -123,6 +123,10 @@ a{
    font-weight: 500;
 }
 
+.resume{
+   text-decoration: none;
+}
+
 .resume-btn{
    background-color: var(--bgOrange);
    width: fit-content;
