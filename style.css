@@ -314,6 +314,7 @@ a{
 .project-section{
    background-color: rgb(231,231,231);
    margin-top: 4rem;
+   width: 100vw;
 }
 
 .project-heading{
